@@ -10,3 +10,4 @@ build/
 
 # Third-party test framework (fetched separately, see README)
 list_and_tree/googletest/
+dlinked_list/
