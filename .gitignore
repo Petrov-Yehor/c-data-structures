@@ -1,0 +1,12 @@
+# Build output
+bin/
+build/
+*.o
+*.d
+
+# Editor / OS
+.vscode/
+.DS_Store
+
+# Third-party test framework (fetched separately, see README)
+list_and_tree/googletest/
